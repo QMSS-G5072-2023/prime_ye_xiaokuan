@@ -1,0 +1,22 @@
+:py:mod:`prime_xy2598`
+======================
+
+.. py:module:: prime_xy2598
+
+
+Submodules
+----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+
+   prime_xy2598/index.rst
+
+
+Package Contents
+----------------
+
+.. py:data:: __version__
+
+   
+

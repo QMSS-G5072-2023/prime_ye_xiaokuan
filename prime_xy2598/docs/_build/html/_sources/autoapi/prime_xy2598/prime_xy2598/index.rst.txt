@@ -1,0 +1,42 @@
+:py:mod:`prime_xy2598.prime_xy2598`
+===================================
+
+.. py:module:: prime_xy2598.prime_xy2598
+
+
+Module Contents
+---------------
+
+
+Functions
+~~~~~~~~~
+
+.. autoapisummary::
+
+   prime_xy2598.prime_xy2598.is_prime
+
+
+
+.. py:function:: is_prime(n)
+
+   Checks if a given number is a prime number.
+
+   Parameters:
+   -----------
+   n : int
+       The integer to be checked for primality.
+
+   Returns:
+   -------
+   bool
+       Returns True if the integer is prime, otherwise returns False.
+
+   Examples:
+   --------
+   >>> is_prime(2)
+   True
+
+   >>> is_prime(4)
+   False
+
+
